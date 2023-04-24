@@ -1,5 +1,5 @@
 #EXTM3U8
- 
+
 #EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg"group-title="PELICULAS", Avatar2 | HD
  https://cloclo61.cloud.mail.ru/videowl/0p/Z1lOUy9ramZvMWJHV00=.m3u8?double_encode=1
 
@@ -165,8 +165,8 @@ http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
 #EXTINF:-1,MEXICO:RTQ Queretaro
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="España", Teleformula
-http://wms30.tecnoxia.com/radiof/abr_radioftele/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ecuavisa_Internacional-C.svg/640px-Ecuavisa_Internacional-C.svg.png" group-title="ECUADOR", ECUAVISA costa HD
+https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xcpZ2Gr.jpg" group-title="MEXICO", Tlaxcala TV | SD
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
@@ -345,8 +345,8 @@ http://streaminglivehd.com:1935/8098/8098/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_RTVE.svg/800px-Logo_RTVE.svg.png" group-title="ESPAÑA", RTVE | HD
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_576.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WmMGr10.png" group-title="ESPAÑA", Divinity | HD
-http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+#EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/423203/f9cddc37fc964ed778315f8b50a611d6_130x130.webp" group-title="ECUADOR", Recuerdos Retro | HD
+https://panel.tvstream.cl:1936/8034/8034/chunklist_w1244170437.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tqIlk01.png" group-title="ESPAÑA", Antena 3 | HD
 http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8
@@ -525,8 +525,8 @@ http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xZSz9Yt.png" group-title="MUSICA", Retro TV | SD
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XX9A1OQ.jpg" group-title="MUSICA", DJIng Ibiza | HD
-http://www.djing.com/tv/ibiza.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xZSz9Yt.png" group-title="MUSICA", RETRO PLUS | HD
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w267082591.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QPRJHC6.png" group-title="MUSICA", Virgin Radio TV | SD
 http://wow01.105.net/live/virgin1/.m3u8
@@ -540,8 +540,8 @@ https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Gpa4LA6.png" group-title="MUSICA", Xite | HD
 http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VG3m7v1.jpg" group-title="MUSICA", Capital TV | SD
-http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1 tvg-logo="https://s3.amazonaws.com/cdn.radionewproject.com/14b1e5e87761499e173c79bf13f22fc7.jpg" group-title="ECUADOR", Sona Onda TV | SD
+https://mediacpstreamchile.com:1936/sonoonda/sonoonda/chunklist_w1096547977.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VpZPZEv.png" group-title="MUSICA", Radio Montecarlo TV | SD
 http://fms.105.net:1935/live/rmc1/.m3u8
@@ -564,11 +564,11 @@ http://live.wowza.kpnstreaming.nl/omropfryslanlive/OFstream01.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/63s1k43.png" group-title="MUSICA", Portal FoxMix | HD
 https://panel.tvstream.cl:1936/8040/8040/chunklist_w1797192962.m3u8
 
-#EXTINF:-1 tvg-name="TLX" tvg-logo="https://i.imgur.com/2k00AmQ.png" group-title="ARGENTINA",TLX
-http://tvpremiumhd.club/lista-gratuita/green/tlx.m3u8
+#EXTINF:-1 tvg-name="Red TV VENTANA" tvg-logo="https://lh3.googleusercontent.com/p/AF1QipMd9gnN07r6UDLcc2zbY0O-dWeXKZKF5gVwuTch=w768-h768-n-o-v1" group-title="ECUADOR",Red TV Ventanas | SD
+https://s2.tvdatta.com:3825/live/redtvelive.m3u8?WebM3UCL
 
-#EXTINF:-1 tvg-name="Travel" tvg-logo="https://i.imgur.com/LzqmVlI.png" group-title="ENTRETENIMIENTO",Travel
-http://tvpremiumhd.club/lista-gratuita/green/travelhd.m3u8
+#EXTINF:-1 tvg-name="Retro plus" tvg-logo="https://play-lh.googleusercontent.com/U73kFg4Qya85ClsrZ0r8z4srpmZ2xb_85TlGjSwNnJvYdqcGVCkVL2KmQtK0heLnCMo" group-title="CINE Y SERIES",Retro Plus
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w1719798858.m3u8?WebM3UCL
 
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://i.imgur.com/FOwNemD.png" group-title="ENTRETENIMIENTO",CNN
 http://tvpremiumhd.club/lista-gratuita/green/cnn.m3u8
