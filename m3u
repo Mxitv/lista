@@ -165,7 +165,7 @@ http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ecuavisa_Internacional-C.svg/640px-Ecuavisa_Internacional-C.svg.png" group-title="ECUADOR", ECUAVISA costa HD
-https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8?WebM3UCL
+https://mdstrm.com/live-stream-playlist/6089d0a7f61e11081f8c832a.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xcpZ2Gr.jpg" group-title="MEXICO", Tlaxcala TV | SD
 http://coracyt.mega00.com:1935/live/coracyt/coracyt/playlist.m3u8
@@ -383,8 +383,8 @@ http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/mast
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NPwasj0.png" group-title="ESPAÑA", Extremadura | SD
 http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qUB3ggl.png" group-title="ESPAÑA", Lancelot TV | SD
-http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:-1 tvg-logo="https://i2.paste.pics/dd681ddc5d29baacd3d2c2935b51e8ef.png" group-title="MUSICA",House music TV  | SD
+https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3TGxQ3O.png" group-title="ESPAÑA", ETBSAT | SD
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
@@ -887,12 +887,12 @@ https://olympusato-mmd-cust.lldns.net/stream.ismd/manifest.m3u8?stream=/OA/XbQTH
 #EXTINF:-1 tvg-chno="297" tvg-id="El vengador fantasma .es" tvg-name="El vengador fantasma .ES" tvg-country="ES" tvg-lenguaje="spanish" group-title="[VOD] PELICULAS"  tvg-logo="https://televen.com/wp-content/uploads/2017/04/El-vengador-fantasma.jpg" audio-track="es",El vengador fantasma | SD 
 https://olympusato-mmd-cust.lldns.net/stream.ismd/manifest.m3u8?stream=/Lg/RPAuH36A5Rp3KeW1dSWEev53R1OhHueK82sJXXdUk/mgrsov1;/rL/tcca-jg0Xs1voag1DJDd_Ev52-UrdP-xjfYp9q2_M/mgrsov1;/j3/JGUM8tVpCr6o5vMn3k6FrfMionicDrOdHnWQu6kCE/mgrsov1;/3I/wIKkYWD1-myMB9jp0E_W6CzuGO0G9mSXVUVwegzhU/mgrsov1
              
-#EXTINF:-1 tvg-chno="298" tvg-id="AIRONMAN 3 .es" tvg-name="AIRONMAN 3 .ES" tvg-country="ES" tvg-lenguaje="spanish" group-title="[VOD] PELICULAS"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Iron_Man_3_poster.jpg" audio-track="es",AIRONMAN 3 | SD   
+#EXTINF:-1 tvg-chno="298" tvg-id="Aironman 3 .es" tvg-name="Aironman 3 .ES" tvg-country="ES" tvg-lenguaje="spanish" group-title="[VOD] PELICULAS"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Iron_Man_3_poster.jpg" audio-track="es",Aironman 3 | SD
 https://www-bup37673.ssl0d.com/hls2/ChCNETYAgb-0UuMtDGNXKQ/1675831799/SsldVlMaFwSzCERAq5Mw-ORR--nkrVm9wpglCYOQz1g/master.m3u8            
              
-#EXTINF:-1 tvg-chno="298" tvg-id="Doctor Strean .es" tvg-name="Doctor Strean .ES" tvg-country="ES" tvg-lenguaje="spanish" group-title="[VOD] PELICULAS"  tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/04/07/11/43/1839314.jpg" audio-track="es",Doctor Strean | SD             
+#EXTINF:-1 tvg-chno="299" tvg-id="Doctor Strean .es" tvg-name="Doctor Strean .ES" tvg-country="ES" tvg-lenguaje="spanish" group-title="[VOD] PELICULAS"  tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/04/07/11/43/1839314.jpg" audio-track="es",Doctor Strean | SD
 https://www-xrm65778.ssl0d.com/hls2/bE4pdxtJs1th3-cAEODQ7g/1675835152/SsldVlMaFwSzCERAq5Mw-Ol4YOdmmum-0xUSKvvjkZs/master.m3u8
              
-#EXTINF:-1 tvg-chno="298" tvg-id="VIUDA NEGRA .es" tvg-name="VIUDA NEGRA .ES" tvg-country="ES" tvg-lenguaje="spanish" group-title="[VOD] PELICULAS"  tvg-logo="https://pics.filmaffinity.com/Viuda_negra-372790622-large.jpg" audio-track="es",VIUDA NEGRA | SD             
+#EXTINF:-1 tvg-chno="300" tvg-id="Viuda Negra .es" tvg-name="Viuda Negra .ES" tvg-country="ES" tvg-lenguaje="spanish" group-title="[VOD] PELICULAS"  tvg-logo="https://pics.filmaffinity.com/Viuda_negra-372790622-large.jpg" audio-track="es",Viuda Negra | SD
 https://cloclo58.cloud.mail.ru/videowl/360p_1/NW9rci9GaFFOUEExOHI=.m3u8?double_encode=1             
              
