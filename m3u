@@ -895,16 +895,7 @@ https://www-xrm65778.ssl0d.com/hls2/bE4pdxtJs1th3-cAEODQ7g/1675835152/SsldVlMaFw
 
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Viuda_negra-372790622-large.jpg"group-title=" PELICULAS", ,Viuda Negra | HD
 https://cloclo58.cloud.mail.ru/videowl/360p_1/NW9rci9GaFFOUEExOHI=.m3u8?double_encode=1             
-              
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L0zLsl9.png" group-title="Lista 1", BLACKGHOST 01
-http://bgtv.site/TV&f=file&dir=kasjhfaasasblack&f=.m3u8|user-agent=Lavf/57.71.001&f=file&dir=kasjhfaasasblack&f=.m3u8|user-agent=Lavf/57.71.001.ts 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3akxcS6.png" group-title="Lista 1", Apoyanos para seguirte ofreciendo mas opciones
-http://bgtv.site/TV&f=file&dir=kasjhfaasasblack&f=.m3u8|user-agent=Lavf/57.71.001.ts 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3akxcS6.png" group-title="Lista 1", http://paypal.me/blackghost
-http://bgtv.site/TV&f=file&dir=kasjhfaasasblack&f=.m3u8|user-agent=Lavf/57.71.001 
-
+             
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" NOEE="Entretenimiento" group-title="Lista 1", A&E 
 http://bgtv.site/play/14--408.php?c=1&dir=kasjhfaasasblack&f=.m3u8|user-agent=Lavf/57.71.001 
 
@@ -950,8 +941,11 @@ http://bgtv.site/play/14--408.php?c=146&dir=kasjhfaasasblack&f=.m3u8|user-agent=
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" NOEE="Entretenimiento" group-title="Lista 1", AXN Sur 
 http://bgtv.site/play/14--408.php?c=804&dir=kasjhfaasasblack&f=.m3u8|user-agent=Lavf/57.71.001 
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" NOEE="España" group-title="Lista 1", AXN (ES) http://bgtv.site/play/14--408.php?c=713&dir=kasjhfaasasblack&f=.m3u8|user-agent=Lavf/57.71.001 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" NOEE="España" group-title="Lista 1", AXN WHITE (ES) http://bgtv.site/play/14--408.php?c=714&dir=kasjhfaasasblack&f=.m3u8|user-agent=Lavf/57.71.001 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" NOEE="España" group-title="Lista 1", AXN (ES) 
+http://bgtv.site/play/14--408.php?c=713&dir=kasjhfaasasblack&f=.m3u8|user-agent=Lavf/57.71.001 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" NOEE="España" group-title="Lista 1", AXN WHITE (ES) 
+http://bgtv.site/play/14--408.php?c=714&dir=kasjhfaasasblack&f=.m3u8|user-agent=Lavf/57.71.001 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/aymsports.png" NOEE="Deportes" group-title="Lista 1", AyM Sports 
 http://bgtv.site/play/14--408.php?c=148&dir=kasjhfaasasblack&f=.m3u8|user-agent=Lavf/57.71.001 
@@ -968,7 +962,8 @@ http://bgtv.site/play/14--408.php?c=166&dir=kasjhfaasasblack&f=.m3u8|user-agent=
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png" NOEE="Mexico" group-title="Lista 1", Azteca 1 
 http://bgtv.site/play/14--408.php?c=4&dir=kasjhfaasasblack&f=.m3u8|user-agent=Lavf/57.71.001 
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png" NOEE="Mexico" group-title="Lista 1", Azteca 7 http://bgtv.site/play/14--408.php?c=5&dir=kasjhfaasasblack&f=.m3u8|user-agent=Lavf/57.71.001 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png" NOEE="Mexico" group-title="Lista 1", Azteca 7 
+http://bgtv.site/play/14--408.php?c=5&dir=kasjhfaasasblack&f=.m3u8|user-agent=Lavf/57.71.001 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png" NOEE="Infantiles" group-title="Lista 1", Baby TV 
 http://bgtv.site/play/14--408.php?c=7&dir=kasjhfaasasblack&f=.m3u8|user-agent=Lavf/57.71.001 
@@ -985,7 +980,8 @@ http://bgtv.site/play/14--408.php?c=788&dir=kasjhfaasasblack&f=.m3u8|user-agent=
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" NOEE="Deportes" group-title="Lista 1", BeinSports Ñ 
 http://bgtv.site/play/14--408.php?c=761&dir=kasjhfaasasblack&f=.m3u8|user-agent=Lavf/57.71.001 
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bleach.png" NOEE="24/7" group-title="Lista 1", Bleach 24/7 http://bgtv.site/play/14--408.php?c=883&dir=kasjhfaasasblack&f=.m3u8|user-agent=Lavf/57.71.001 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bleach.png" NOEE="24/7" group-title="Lista 1", Bleach 24/7 
+http://bgtv.site/play/14--408.php?c=883&dir=kasjhfaasasblack&f=.m3u8|user-agent=Lavf/57.71.001 
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/bobesponja.png" NOEE="24/7" group-title="Lista 1", Bob Esponja 24/7 
 http://bgtv.site/play/14--408.php?c=518&dir=kasjhfaasasblack&f=.m3u8|user-agent=Lavf/57.71.001 
@@ -1034,6 +1030,7 @@ http://bgtv.site/play/14--408.php?c=808&dir=kasjhfaasasblack&f=.m3u8|user-agent=
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cantinflas.png" NOEE="24/7" group-title="Lista 1", Cantinflas 24/7 
 http://bgtv.site/play/14--408.php?c=428&dir=kasjhfaasasblack&f=.m3u8|user-agent=Lavf/57.71.001 
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/capitaltv.png" NOEE="Musica" group-title="Lista 1", Capital TV 
 http://bgtv.site/play/14--408.php?c=205&dir=kasjhfaasasblack&f=.m3u8|user-agent=Lavf/57.71.001 
 
@@ -1045,8 +1042,12 @@ http://bgtv.site/play/14--408.php?c=290&dir=kasjhfaasasblack&f=.m3u8|user-agent=
 
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" NOEE="Infantiles" group-title="Lista 1", Cartoon Network http://bgtv.site/play/14--408.php?c=17&dir=kasjhfaasasblack&f=.m3u8|user-agent=Lavf/57.71.001
 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" NOEE="Infantiles" group-title="Lista 1", Cartoon Network Sur http://bgtv.site/play/14--408.php?c=737&dir=kasjhfaasasblack&f=.m3u8|user-agent=Lavf/57.71.001 
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" NOEE="Infantiles" group-title="Lista 1", Cartoonito (Boomerang) http://bgtv.site/play/14--408.php?c=11&dir=kasjhfaasasblack&f=.m3u8|user-agent=Lavf/57.71.001 
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" NOEE="Infantiles" group-title="Lista 1", Cartoon Network Sur 
+http://bgtv.site/play/14--408.php?c=737&dir=kasjhfaasasblack&f=.m3u8|user-agent=Lavf/57.71.001 
+
+#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" NOEE="Infantiles" group-title="Lista 1", Cartoonito (Boomerang) 
+http://bgtv.site/play/14--408.php?c=11&dir=kasjhfaasasblack&f=.m3u8|user-agent=Lavf/57.71.001 
+
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/boomerang.png" NOEE="Infantiles" group-title="Lista 1", Cartoonito Sur 
 http://bgtv.site/play/14--408.php?c=735&dir=kasjhfaasasblack&f=.m3u8|user-agent=Lavf/57.71.001 
 
