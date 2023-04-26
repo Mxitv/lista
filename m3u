@@ -1,5 +1,5 @@
 #EXTM3U8 
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg"group-title="[VOD]  PELICULAS", Avatar2 | HD
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg"group-title="[VOD] PELICULAS", Avatar2 | HD
  https://cloclo61.cloud.mail.ru/videowl/0p/Z1lOUy9ramZvMWJHV00=.m3u8?double_encode=1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="MEXICO", Canal 10 Chetumal | HD
@@ -854,25 +854,25 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380&amp;avod=1&amp;coppa=
 #EXTINF:-1, PlUTO ACCION SD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=6.2.1-041b6a96d2795999577532a465490fe620265728&app_name=web&clientDeviceType=0&clientID=73c188ed-3fa6-4f16-a5ae-2a809a48d918&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=73c188ed-3fa6-4f16-a5ae-2a809a48d918&deviceLat=-32.9204&deviceLon=-68.8293&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=102.0.5005&marketingRegion=VE&serverSideAds=true&sessionID=7049fb30-f0dc-11ec-991f-0242ac110003&sid=7049fb30-f0dc-11ec-991f-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImZmZmI5OTlkLTM1YWMtNDYxYS1iOGQ3LWIyZmVkN2I4YjRlMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI3MDQ5ZmIzMC1mMGRjLTExZWMtOTkxZi0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS44Mi4xMTQuMjIiLCJjaXR5IjoiR29kb3kgQ3J1eiIsInBvc3RhbENvZGUiOiI1NTAxIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTMyLjkyMDQsImRldmljZUxvbiI6LTY4LjgyOTMsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEwMi4wLjUwMDUiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMi4xLTA0MWI2YTk2ZDI3OTU5OTk1Nzc1MzJhNDY1NDkwZmU2MjAyNjU3MjgiLCJjbGllbnRJRCI6IjczYzE4OGVkLTNmYTYtNGYxNi1hNWFlLTJhODA5YTQ4ZDkxOCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9NZW5kb3phIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY1NTc4NzgxMCwianRpIjoiMGJmNGMwMWQtYTVjMS00YmFkLTg4YzQtOTBhMTkzNGQ2NjJkIiwiaWF0IjoxNjU1NzU5MDEwLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TnpOak1UZzRaV1F0TTJaaE5pMDBaakUyTFdFMVlXVXRNbUU0TURsaE5EaGtPVEU0In0.qUlJJg03pqctHnPJwifhTh-tiq5Y8cuEX-zR4zGmDCw&masterJWTPassthrough=true
 
-#EXTINF:-1, Pluto Estelar
+#EXTINF:-1,Pluto Estelar
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=6.2.1-041b6a96d2795999577532a465490fe620265728&app_name=web&clientDeviceType=0&clientID=73c188ed-3fa6-4f16-a5ae-2a809a48d918&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=73c188ed-3fa6-4f16-a5ae-2a809a48d918&deviceLat=-32.9204&deviceLon=-68.8293&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=102.0.5005&marketingRegion=VE&serverSideAds=true&sessionID=4845bff9-f0dd-11ec-817d-0242ac110003&sid=4845bff9-f0dd-11ec-817d-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImZmZmI5OTlkLTM1YWMtNDYxYS1iOGQ3LWIyZmVkN2I4YjRlMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI0ODQ1YmZmOS1mMGRkLTExZWMtODE3ZC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS44Mi4xMTQuMjIiLCJjaXR5IjoiR29kb3kgQ3J1eiIsInBvc3RhbENvZGUiOiI1NTAxIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTMyLjkyMDQsImRldmljZUxvbiI6LTY4LjgyOTMsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEwMi4wLjUwMDUiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMi4xLTA0MWI2YTk2ZDI3OTU5OTk1Nzc1MzJhNDY1NDkwZmU2MjAyNjU3MjgiLCJjbGllbnRJRCI6IjczYzE4OGVkLTNmYTYtNGYxNi1hNWFlLTJhODA5YTQ4ZDkxOCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9NZW5kb3phIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY1NTc4ODE3MywianRpIjoiNGVjMTk2NmEtZjQ3Mi00MGZiLWI4ZmYtZWEwZTZmMmNlZDdkIiwiaWF0IjoxNjU1NzU5MzczLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TnpOak1UZzRaV1F0TTJaaE5pMDBaakUyTFdFMVlXVXRNbUU0TURsaE5EaGtPVEU0In0.wFMlybh5cvb5J0SMSEti-_5v66-TYo8PkL5ph3HUIZI&masterJWTPassthrough=true
 
-#EXTINF:-1, MEGA TV PARAGUAY
+#EXTINF:-1,MEGA TV PARAGUAY
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 
-#EXTINF:-1, ITV SPORTS
+#EXTINF:-1,ITV SPORTS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 
 #EXTINF:-1, PLUTO TERROR
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=6.2.1-041b6a96d2795999577532a465490fe620265728&app_name=web&clientDeviceType=0&clientID=73c188ed-3fa6-4f16-a5ae-2a809a48d918&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=73c188ed-3fa6-4f16-a5ae-2a809a48d918&deviceLat=-32.9204&deviceLon=-68.8293&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=102.0.5005&marketingRegion=VE&serverSideAds=true&sessionID=a546d595-f0dd-11ec-9be6-0242ac110003&sid=a546d595-f0dd-11ec-9be6-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImZmZmI5OTlkLTM1YWMtNDYxYS1iOGQ3LWIyZmVkN2I4YjRlMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJhNTQ2ZDU5NS1mMGRkLTExZWMtOWJlNi0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS44Mi4xMTQuMjIiLCJjaXR5IjoiR29kb3kgQ3J1eiIsInBvc3RhbENvZGUiOiI1NTAxIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTMyLjkyMDQsImRldmljZUxvbiI6LTY4LjgyOTMsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEwMi4wLjUwMDUiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMi4xLTA0MWI2YTk2ZDI3OTU5OTk1Nzc1MzJhNDY1NDkwZmU2MjAyNjU3MjgiLCJjbGllbnRJRCI6IjczYzE4OGVkLTNmYTYtNGYxNi1hNWFlLTJhODA5YTQ4ZDkxOCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9NZW5kb3phIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY1NTc4ODMyOSwianRpIjoiMTE5MjdkYWMtYjZkZi00M2JhLTllNDMtYzg0ZjhlNjg5ZjZiIiwiaWF0IjoxNjU1NzU5NTI5LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TnpOak1UZzRaV1F0TTJaaE5pMDBaakUyTFdFMVlXVXRNbUU0TURsaE5EaGtPVEU0In0.Bi_89be8UlwmNUYebEObAfG-1s_Ab6sh58BetU8q7Z0&masterJWTPassthrough=true
 
-#EXTINF:-1, Vix Cine Club
+#EXTINF:-1,Vix Cine Club
 https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
 
-#EXTINF:-1, ABC TV
+#EXTINF:-1,ABC TV
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 
-#EXTINF:-1, Miami Tv Latino
+#EXTINF:-1,Miami Tv Latino
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist_w1804858925_b1896000.m3u8
 
 #EXTINF:-1 tvg-chno="294" tvg-id="Bolivia tv .es" tvg-name="Bolivia tv .ES" tvg-country="ES" tvg-lenguaje="spanish" group-title="BOLIVIA"  tvg-logo="https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg" audio-track="es",Bolivia tv | SD 
@@ -881,10 +881,18 @@ https://5f2c1b0d880e5.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 #EXTINF:-1 tvg-chno="295" tvg-id="Terremoto Ártico .es" tvg-name="Terremoto Ártico" tvg-country="ES" tvg-lenguaje="spanish" group-title="[VOD] PELICULAS"  tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/terremoto_de_hielo_thumbnail_16x9_widescreen_las.jpg" audio-track="es",Terremoto Ártico | SD 
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_8fn3peni/format/applehttp/protocol/https/flavorIds/1_u5ls3ccf,1_t4lmpmuv,1_e5bikcef,1_ak4nlufr,1_dlx1z10h,1_5xhr8zdp/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1682477646&id=107&ip=45.224.152.74&override_expiration=1500&sign=uy0tQgY8ICTN1ugeF3xcwM4%2BzfqaLM3mJCFYO%2FDe7R0%3D&playSessionId=f8c46347-f827-63ba-f46c-799fdf90d6ea:a213a73c-1601-17d2-db9a-4b87f058c3ec&referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9lcy9mZWF0dXJlL3RlcnJlbW90by1hcnRpY28=&clientTag=html5:v7.61
 
-#EXTINF:-1 tvg-chno="296" tvg-id="Gigante de piedra .es" tvg-name="Gigante de piedra .ES" tvg-country="ES" tvg-lenguaje="spanish" group-title="[VOD] PELICULAS"  tvg-logo="https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg" audio-track="es",Gigante de piedra | 
+#EXTINF:-1 tvg-chno="296" tvg-id="Gigante de piedra .es" tvg-name="Gigante de piedra .ES" tvg-country="ES" tvg-lenguaje="spanish" group-title="[VOD] PELICULAS"  tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/6044193f82e19c7a3b57bef8abbccd8734d5149ab30982387cd800ff70155217._RI_V_TTW_.jpg" audio-track="es",Gigante de piedra | 
 https://olympusato-mmd-cust.lldns.net/stream.ismd/manifest.m3u8?stream=/OA/XbQTHRlkvfBh_3k7lJAqH7huyht4qFtIvzt1rX2j8/megdpi1;/6m/phwUaIQk1kCbW-Wq5j8L9gfvcnEo4JkyJA6qnzmhk/megdpi1;/Li/lhz3YwVCUAbeGeTgVDWNQ_l1efPX7o0Egt_fE4jlk/megdpi1;/r9/evC8pnUH6PGAHo9CNwJ8_Hz0pbd_a-gof4CpJJWj8/megdpi1
 
-#EXTINF:-1 tvg-chno="297" tvg-id="El vengador fantasma .es" tvg-name="El vengador fantasma .ES" tvg-country="ES" tvg-lenguaje="spanish" group-title="BOLIVIA"  tvg-logo="https://televen.com/wp-content/uploads/2017/04/El-vengador-fantasma.jpg" audio-track="es",El vengador fantasma | SD 
-https://c.tenor.com/YG_GREUD9OwAAAAC/tv-static.gif" preload="none">
-<source src="https://olympusato-mmd-cust.lldns.net/stream.ismd/manifest.m3u8?stream=/Lg/RPAuH36A5Rp3KeW1dSWEev53R1OhHueK82sJXXdUk/mgrsov1;/rL/tcca-jg0Xs1voag1DJDd_Ev52-UrdP-xjfYp9q2_M/mgrsov1;/j3/JGUM8tVpCr6o5vMn3k6FrfMionicDrOdHnWQu6kCE/mgrsov1;/3I/wIKkYWD1-myMB9jp0E_W6CzuGO0G9mSXVUVwegzhU/mgrsov1
+#EXTINF:-1 tvg-chno="297" tvg-id="El vengador fantasma .es" tvg-name="El vengador fantasma .ES" tvg-country="ES" tvg-lenguaje="spanish" group-title="[VOD] PELICULAS"  tvg-logo="https://televen.com/wp-content/uploads/2017/04/El-vengador-fantasma.jpg" audio-track="es",El vengador fantasma | SD 
+https://olympusato-mmd-cust.lldns.net/stream.ismd/manifest.m3u8?stream=/Lg/RPAuH36A5Rp3KeW1dSWEev53R1OhHueK82sJXXdUk/mgrsov1;/rL/tcca-jg0Xs1voag1DJDd_Ev52-UrdP-xjfYp9q2_M/mgrsov1;/j3/JGUM8tVpCr6o5vMn3k6FrfMionicDrOdHnWQu6kCE/mgrsov1;/3I/wIKkYWD1-myMB9jp0E_W6CzuGO0G9mSXVUVwegzhU/mgrsov1
+             
+#EXTINF:-1 tvg-chno="298" tvg-id="AIRONMAN 3 .es" tvg-name="AIRONMAN 3 .ES" tvg-country="ES" tvg-lenguaje="spanish" group-title="[VOD] PELICULAS"  tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Iron_Man_3_poster.jpg" audio-track="es",AIRONMAN 3 | SD   https://www-bup37673.ssl0d.com/hls2/ChCNETYAgb-0UuMtDGNXKQ/1675831799/SsldVlMaFwSzCERAq5Mw-ORR--nkrVm9wpglCYOQz1g/master.m3u8            
+             
+#EXTINF:-1 tvg-chno="298" tvg-id="Doctor Strean .es" tvg-name="Doctor Strean .ES" tvg-country="ES" tvg-lenguaje="spanish" group-title="[VOD] PELICULAS"  tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/04/07/11/43/1839314.jpg" audio-track="es",Doctor Strean | SD             
+https://www-xrm65778.ssl0d.com/hls2/bE4pdxtJs1th3-cAEODQ7g/1675835152/SsldVlMaFwSzCERAq5Mw-Ol4YOdmmum-0xUSKvvjkZs/master.m3u8             
+             
+#EXTINF:-1 tvg-chno="298" tvg-id="VIUDA NEGRA .es" tvg-name="VIUDA NEGRA .ES" tvg-country="ES" tvg-lenguaje="spanish" group-title="[VOD] PELICULAS"  tvg-logo="https://pics.filmaffinity.com/Viuda_negra-372790622-large.jpg" audio-track="es",VIUDA NEGRA | SD             
+https://cloclo58.cloud.mail.ru/videowl/360p_1/NW9rci9GaFFOUEExOHI=.m3u8?double_encode=1             
+             
 
