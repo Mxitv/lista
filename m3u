@@ -1,5 +1,5 @@
 #EXTM3U8 
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg"group-title=" PELICULAS", Avatar2 | HD
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg"group-title="PELICULAS", Avatar2 | HD
  https://cloclo61.cloud.mail.ru/videowl/0p/Z1lOUy9ramZvMWJHV00=.m3u8?double_encode=1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="MEXICO", Canal 10 Chetumal | HD
@@ -700,7 +700,7 @@ https://cmc-ono.amagi.tv/amRdirect/device[did]=%7BPSID%7D&device[dnt]=%7BDID%7D&
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OXgDjwN.png" group-title="MUSICA", Radio Bruno (Italia) | SD
 https://router.xdevel.com/video0s975758-473/stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://as01.epimg.net/meristation/imagenes/2021/10/14/noticias/1634197816_237379_1634197975_noticia_normal.jpg" group-title=" PELICULAS", VENON 2 | HD
+#EXTINF:-1 tvg-logo="https://as01.epimg.net/meristation/imagenes/2021/10/14/noticias/1634197816_237379_1634197975_noticia_normal.jpg" group-title="PELICULAS", VENON 2 | HD
 https://cloclo53.cloud.mail.ru/videowl/0p/QXBWVS9BWkUyd0hBRjM=.m3u8?double_encode=1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QECto3J.png" group-title="MUSICA", Klipkar TV | SD
@@ -1035,6 +1035,7 @@ https://olympusato-mmd-cust.lldns.net/stream.ismd/manifest.m3u8?stream=/Lg/RPAuH
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Iron_Man_3_poster.jpg"group-title="PELICULAS", Aironman 3 | HD
 https://www-bup37673.ssl0d.com/hls2/ChCNETYAgb-0UuMtDGNXKQ/1675831799/SsldVlMaFwSzCERAq5Mw-ORR--nkrVm9wpglCYOQz1g/master.m3u8            
+
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/04/07/11/43/1839314.jpg"group-title="PELICULAS",Doctor Strean | HD
 https://www-xrm65778.ssl0d.com/hls2/bE4pdxtJs1th3-cAEODQ7g/1675835152/SsldVlMaFwSzCERAq5Mw-Ol4YOdmmum-0xUSKvvjkZs/master.m3u8
 
@@ -1055,8 +1056,6 @@ https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_osi3zi
 
 #EXTINF:-1 tvg-id="Trinidad.eu" tvg-name="Trinidad (HD)" tvg-logo="https://www.ecartelera.com/carteles/7600/7671/001_m.jpg" group-title="PELICULAS",TRINIDAD | (HD)
 https://cloclo61.cloud.mail.ru/videowl/0p/Z3E0ei9TTjhxRmNqVEY=.m3u8?double_encode=1
-
-
 
 #EXTINF:-1 tvg-id="6 Balas.eu" tvg-name="6 Balas (HD)" tvg-logo="https://www.cineycine.com/archivos/2017/12/6-balas-poster.jpg" group-title="PELICULAS",6 Balas | (HD)
 https://cfvod.kaltura.com/scf/enc/hlsm/p/2657331/sp/265733100/serveFlavor/entryId/1_b4jvbka6/v/1/ev/10/flavorId/1_qkydtnpv/name/a.mp4/index.m3u8/index-v1-a1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvZW5jL2hsc20vcC8yNjU3MzMxL3NwLzI2NTczMzEwMC9zZXJ2ZUZsYXZvci9lbnRyeUlkLzFfYjRqdmJrYTYvdi8xL2V2LzEwL2ZsYXZvcklkLzFfKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MjE0NzQ4MzY0N319fV19&Signature=IkyBR5fkU5zQYzJEBTDep-QmaynseoSn02dFQlHWevokXvuaH21Cr-6HcW4ZxuT7nwBwExuaUOQwceEowAYfx21hpZWQx8ayvoV-easQhaEfEC3GOxcekWdOlT7s4RRfeHnUKGuK8UOsFF-489xkAqexPkeMAt4-zfvsGgvzZY5-9evkWXjCCUarT3F5Oeh~7kbPakTGQSAYPatuNyg9SXvBxXVHtyF~2oVf7FfLVYezZ67T~6XzyNEiFbelB7WJcYsXqHum~6errrnmc6iWPJo3DNM0cbJwo69QJjSXntNFO4OaQxWaCkxjM2lOlR1mVh6pCJTSGGu40PV~vxF55Q__&Key-Pair-Id=APKAJT6QIWSKVYK3V34A
