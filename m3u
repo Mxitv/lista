@@ -921,3 +921,6 @@ http://144.217.70.79/VODS-M/720P/Balto%20III%20Wings%20of%20Change%202004.mkv
 
 #EXTINF:-1 type="PELICULAS" , Bus Driver (2016) 
 http://144.217.70.79/VODS-M/720P/Bus%20Driver%202016.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k8Q9ulyRE8fkvZMkAM9LPYMKctb.jpg" type="movie" , Batman Death in the Family (2020)
+http://144.217.70.79/VODS-M/1080P/Batman%20Death%20in%20the%20Family%202020.mkv
