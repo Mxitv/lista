@@ -1,9 +1,5 @@
 #EXTM3U
-
-#EXTINF:-14, group-title="PARAGUAY", LIM TV
-https://live.limplay.ml/limtv.m3u8
- 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg"group-title="PELICULAS", Avatar2 | HD
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg"group-title="PELICULAS" type="movie", Avatar2 | HD
 https://cloclo61.cloud.mail.ru/videowl/0p/Z1lOUy9ramZvMWJHV00=.m3u8?double_encode=1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="MEXICO", Canal 10 Chetumal | HDA
@@ -288,15 +284,6 @@ https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/63c6e37e63
 #EXTINF:-23 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY74DCbCMHEUoUgy08KZdB-680qTwMt8QVQLqgUicYDOwqZtd4vo3gp5eo3hLd0ZXJqYU&usqp=CAU" group-title="PARAGUAY", ESTACIÓN CRISTAL TV
 https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
 
-#EXTINF:-61 tvg-logo="https://i.postimg.cc/KjqCyvsv/KIDS.png" group-title="INFANTIL", PLUTO TV KIDS 2 (España)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a09b16cd4ab0007d24fb8/master.m3u8?advertisingId=&amp;appName=web&amp;appVersion=unknown&amp;appStoreUrl=&amp;architecture=&amp;buildVersion=&amp;clientTime=0&amp;deviceDNT=0&amp;deviceId=ef4cb362-7255-11eb-a983-9335ded533f7&amp;deviceMake=Chrome&amp;deviceModel=web&amp;deviceType=web&amp;deviceVersion=unknown&amp;includeExtendedEvents=false&amp;sid=afa8239d-eea1-4295-b421-43f3852ddc10&amp;userId=&amp;serverSideAds=true
-
-#EXTINF:-62 tvg-logo="https://i.postimg.cc/WbfQQZX2/NICKJR-CLUB.png" group-title="INFANTIL", NICK JR. CLUB
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=6.12.0-f0d96ffee2cf8f5e97a2080a7de151de1d1ed6df&app_name=web&clientDeviceType=0&clientID=4c2a1f52-4888-4f00-9d88-21955d651184&clientModelNumber=1.0.0&country=EC&deviceDNT=false&deviceId=4c2a1f52-4888-4f00-9d88-21955d651184&deviceLat=-0.2910&deviceLon=-76.4083&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=113.0.0&marketingRegion=VE&serverSideAds=true&sessionID=b4c3a56a-e644-11ed-a51c-de2ffa989e49&sid=b4c3a56a-e644-11ed-a51c-de2ffa989e49&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEyMWM3ZGFhLWNjYTktNDU0ZS04ZjBmLTIxOTQ3OTQyOTQzMyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJiNGMzYTU2YS1lNjQ0LTExZWQtYTUxYy1kZTJmZmE5ODllNDkiLCJjbGllbnRJUCI6IjQ1LjIyNC4xNTIuNzQiLCJjaXR5IjoiU2h1c2h1ZmluZGkiLCJwb3N0YWxDb2RlIjoiIiwiY291bnRyeSI6IkVDIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTAuMjkxLCJkZXZpY2VMb24iOi03Ni40MDgzLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMTMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI2LjEyLjAtZjBkOTZmZmVlMmNmOGY1ZTk3YTIwODBhN2RlMTUxZGUxZDFlZDZkZiIsImNsaWVudElEIjoiNGMyYTFmNTItNDg4OC00ZjAwLTlkODgtMjE5NTVkNjUxMTg0IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvR3VheWFxdWlsIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOk5HTXlZVEZtTlRJdE5EZzRPQzAwWmpBd0xUbGtPRGd0TWpFNU5UVmtOalV4TVRnMCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2ODI4MjgyMjgsImlhdCI6MTY4Mjc0MTgyOCwianRpIjoiNzE5YWZmMDItMDJjZC00NWEzLWE2NDgtNTgyNjc5MzVkYWQ2In0.O6Y2RD6wF0I_qDLDCN-l1_ESoSwWbaWPvlly1KVUTo8&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEjlV4ydvYEQr3a5p-I6-rCeW3YeLKD_Fvfqvm2xmaCTVUt5PaRKN3AdEsimu3GWTkPC9lTSXhBF4fu_Z7lRrXLIlc8D7CbxNiK4BfNnMUPlTwQCxIvX0Bgb-tNlEON720xKRt4lRk0nJLCfW-PwNXNr9GUiDjpvDX5jtafmlsxYmeCG54jHVYWsUWJkfv8FSQlwEIYywNQWOmt4ABOA7_U1wd0xk00RO4oQ3s5JGIjWRsJfvTK50130f0yTGWgDfluHRkhpK4Is9ftPQTT22yxZjlDvCfse3LTftjWexORuywg2Wo_8NeaqmmpwF-kFI26X_fjAvfWVgXOMmt7nZ1lZShzl0vuAnbt_RVM4mvzO1_XLReLO5PLFgertAeXPooyozl_by2Hdmfz-xKJ153W0pfxlc93-HmncPZp8sda_SlufehLKLi97N_GGbMY07RDr_uaRaBzA4MThqAeX_xKLZpM2yILFZHD9N1KzLJwOtTXZSYhqP9EhKP4kn4eDBtlJo2kAELjvRe8Bv3jvRdSHQ_Bnylccd2x0qYJg5cKuxaxAAWhVKIw1-TCM2lRpjUKIZxXbmN1xbL6uM_sQ6GApXHCXBG80Dko0atSj8OxjgHAdg0qYxztn3rdbMA-or1CYgaJOVKT6V_D53oWl0833I5JD2XJol_A8tFQcvG7xjS2kD-LkA0daztSzofxHLysaTTqtgAd5gFFK44zRADeCcDb-uZkP2d1Cgm_5COFDW6Gy7z-oVJZjFWuQAtvJsYn6srJ2AleFf7Ql62D-nBOhiWRi1UzyLND4BvPjsIh0UvtdgWJc4o7OaUaTElXfPk07JZsrp1NVyml-6DJ3ytshtCXfCvYNlE4NFmDafRIDh13ArMYUsD7i_tT5mxxMEMaNI4HmucdMHkBf0kLR1RbTD5Y_WsMb9qWOTDM1W4ewnPlVTopbHrDdZkR3sTkaTwgEAanChIgqBdy5AzOIM3SrmoKS_bY7vrDAJUf7Bnv3R-ukiXRjlpsjlC_DJlQxL9gfVNv8h32RWYFf9Ez3xVMKt7Wc8VfkNu9ntc4nDNDbI0lLsd21Gv67ELLn2Ovvm73n8m3PN7_3eXHvoJEWWVp8Ak8K77G76vp--xIOGuITPXhz-yl7hakeX_ZkOaOLDWOsrDgKO1SjcZACpQ7-IQg8U6b2HCWcz7vfrh9QPUmaFDCSRqm1dXw0Y1-RiQGGu2W0rBPW93CFXu9hOfC467K6Rbq-ZTavHb9YyL8oC8Exedx1Glsm415TKmfqhNw1AvI3rXSTqU4MXtjqbhna3x0W80LHN74e-imS-aWJH-RNDLmofnUeocpnk.&eventVOD=true&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%220a898f6f-f74e-473b-8fbf-793095234106%22%2Csu
-
-#EXTINF:-64 tvg-logo="https://i.postimg.cc/CKpvff3f/nicklatino.png" group-title="INFANTIL", NICK LATINO
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5ddd7c348520b40009c347e2/2142297/playlist.m3u8?terminate=false&sid=b4c3a56a-e644-11ed-a51c-de2ffa989e49&deviceDNT=0&deviceLat=-0.291&deviceLon=-76.4083&deviceModel=web&deviceVersion=113.0.0&includeExtendedEvents=true&paln=AQzzBGQEnbznDlhaY410fgv58bFIile0AVcy14jQZ48geDaiTp2ECMRN7ePtAE32Ussv2zb1H7FLTTNt5Ps3RZ9zECLPiXBjzUucZGDKQBhgltRzxGDm0iH8FRxnILx6vcULX8-AUMOTcRop_Huo_ckjGZ8peXJbSSk3gTpHLFaRO1zrZE0i4X7Vrz2M7x3mLje4BEsyEDpW96xDHIeWKAA5aZzg2yVnjKgcIG7-lkm71Xt_qQM_6wcm9BOgELO6RBl49ysrCGkG7V-AVlPmL2WN5wIa_Th-3y78Te7KYVGHF13K4rzLvSC81aEOAW8MdIClA0K-5ZuyxxrCX4dg7S0_azOn9VGTvpXyBhZ8YqV6g-pAkRCJgPSRzRdIms8-ROFAEGL6Eq9oskR8P2zKKacO32u9fLzxh21XrbwHMjclNlfWsNlEGUCaV02Xe_CRVF9BOR1PhODad5k1wp7agOTNrDSAtvjuH2_g3FviTm4o20BUvrfh0Uyv0z6pRylLQSzQsmuOIvNddB0DN67rUWri7CUp2IIftc-f_WkPxiyCRJ4bPC8IZLEp3zqKGqtTJ4gkGMKMDwKEqqZ222zMR-LLQwG1UCNyzlDU6OTfBH7QOnc2shO-Q_uWehmhqil2bdMtAqbKZF8JfOkGXaOSaClrZYbOPJb1kDFtqIiGcBXjDkSAOTKChLvh2rl-vltiXzXNzWvDOD3o-uBga_vwc_Y8MIdgA9xV90EaCyAF_wbvtcPD2KCGE19ZDoq67CixU-Sch2UDbH5j2x6ZlmLAD_W5G3bV9_vDTaTURqid-hJ6narQ2J9oTw9HcqVxs3mzmeDqbabVa2oPZQ8br631GIIdrhxQBDB9m8vitGs-995xS_MkU5QhhjrJRiNaRLwljNRv38lbZzmGAgBuY1BjIYkxlBq1WDAYRBWawnuKrDH3OoPtLBQVXrT6kd16mIx3im1ukZgqDbCUT3Nx-XkLsF9FrTN-gEzukdNDbCZyH9G6w9GoKyzDosvUZ2f57MxObBKCjOcHlSI-d-2BDj4_DJyVBO2zzN5m7kFTcVM1a9Vw98qlH_XfdDTRRI41kvu4VohMoYVJgld74A05jny280Jrn_W_FTT89gqXbkJHp2PuZUHP7sKW9CXBuw3EQIVCw9f7lEm_NLK6VDKHVSUoU8hasb6LBEdbumTqlwg2m-wO8w4DT4fm3AMvC8BoXFUSYW9aniw0Gy6CyRNdKmTbbWNQTMg1FNuIhp5nIA80FsyJTIlEV_d0kXWKdvuT0fHgKm0iEj97WSATvo9kBiMHiBEDUsvd18SfJVHcWIn-8L8equHZpAX81crp_vLg&serverSideAds=true&appName=web&DRMCapabilities=widevine&deviceId=4c2a1f52-4888-4f00-9d88-21955d651184&appVersion=6.12.0-f0d96ffee2cf8f5e97a2080a7de151de1d1ed6df&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEyMWM3ZGFhLWNjYTktNDU0ZS04ZjBmLTIxOTQ3OTQyOTQzMyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJiNGMzYTU2YS1lNjQ0LTExZWQtYTUxYy1kZTJmZmE5ODllNDkiLCJjbGllbnRJUCI6IjQ1LjIyNC4xNTIuNzQiLCJjaXR5IjoiU2h1c2h1ZmluZGkiLCJwb3N0YWxDb2RlIjoiIiwiY291bnRyeSI6IkVDIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTAuMjkxLCJkZXZpY2VMb24iOi03Ni40MDgzLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMTMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI2LjEyLjAtZjBkOTZmZmVlMmNmOGY1ZTk3YTIwODBhN2RlMTUxZGUxZDFlZDZkZiIsImNsaWVudElEIjoiNGMyYTFmNTItNDg4OC00ZjAwLTlkODgtMjE5NTVkNjUxMTg0IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvR3VheWFxdWlsIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOk5HTXlZVEZtTlRJdE5EZzRPQzAwWmpBd0xUbGtPRGd0TWpFNU5UVmtOalV4TVRnMCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2ODI4MjgyMjgsImlhdCI6MTY4Mjc0MTgyOCwianRpIjoiNzE5YWZmMDItMDJjZC00NWEzLWE2NDgtNTgyNjc5MzVkYWQ2In0.O6Y2RD6wF0I_qDLDCN-l1_ESoSwWbaWPvlly1KVUTo8&CMCD=mtp%3D3600%2Cot%3Dm%2Csf%3Dh%2Csid%3D%227d846d7d-c564-48a4-90ee-265431b62593%22
-
 #EXTINF:-64 tvg-logo="https://i.postimg.cc/PqZbtGH6/NICKTEEN.png" group-title="INFANTIL", NICK TEEN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?advertisingId=&amp;appName=web&amp;appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&amp;app_name=web&amp;clientDeviceType=0&amp;clientID=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&amp;clientModelNumber=na&amp;deviceDNT=false&amp;deviceId=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&amp;deviceLat=-34.6011&amp;deviceLon=-58.3847&amp;deviceMake=Chrome&amp;deviceModel=web&amp;deviceType=web&amp;deviceVersion=89.0.4389.90&amp;marketingRegion=VE&amp;serverSideAds=true&amp;sessionID=aec89e2d-8415-11eb-850e-0242ac110002&amp;sid=aec89e2d-8415-11eb-850e-0242ac110002&amp;userId=
 
@@ -330,23 +317,8 @@ https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 #EXTINF:-140 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="DOCUMENTALES", LOVE NATURE EN ESPAÑOL
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-140 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="DOCUMENTALES", LOVE NATURE (España)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&amp;deviceMake=samsung&amp;deviceModel=samsung&amp;deviceVersion=unknown&amp;appVersion=unknown&amp;deviceLat=0&amp;deviceLon=0&amp;deviceDNT=%7BTARGETOPT%7D&amp;deviceId=%7BPSID%7D&amp;advertisingId=%7BPSID%7D&amp;us_privacy=1YNY&amp;samsung_app_domain=%7BAPP_DOMAIN%7D&amp;samsung_app_name=%7BAPP_NAME%7D&amp;profileLimit=&amp;profileFloor=&amp;embedPartner=samsung-tvplus
-
-#EXTINF:-61 tvg-logo="https://brandlicensing.com.mx/wp-content/uploads/2019/03/reinoinfantil.png" group-title="INFANTIL",EL REINO INFANTIL
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId=&appName=web&appVersion=6.12.0-f0d96ffee2cf8f5e97a2080a7de151de1d1ed6df&app_name=web&clientDeviceType=0&clientID=4c2a1f52-4888-4f00-9d88-21955d651184&clientModelNumber=1.0.0&country=EC&deviceDNT=false&deviceId=4c2a1f52-4888-4f00-9d88-21955d651184&deviceLat=-0.2910&deviceLon=-76.4083&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=113.0.0&marketingRegion=VE&serverSideAds=true&sessionID=b4c3a56a-e644-11ed-a51c-de2ffa989e49&sid=b4c3a56a-e644-11ed-a51c-de2ffa989e49&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEyMWM3ZGFhLWNjYTktNDU0ZS04ZjBmLTIxOTQ3OTQyOTQzMyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJiNGMzYTU2YS1lNjQ0LTExZWQtYTUxYy1kZTJmZmE5ODllNDkiLCJjbGllbnRJUCI6IjQ1LjIyNC4xNTIuNzQiLCJjaXR5IjoiU2h1c2h1ZmluZGkiLCJwb3N0YWxDb2RlIjoiIiwiY291bnRyeSI6IkVDIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTAuMjkxLCJkZXZpY2VMb24iOi03Ni40MDgzLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMTMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI2LjEyLjAtZjBkOTZmZmVlMmNmOGY1ZTk3YTIwODBhN2RlMTUxZGUxZDFlZDZkZiIsImNsaWVudElEIjoiNGMyYTFmNTItNDg4OC00ZjAwLTlkODgtMjE5NTVkNjUxMTg0IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvR3VheWFxdWlsIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOk5HTXlZVEZtTlRJdE5EZzRPQzAwWmpBd0xUbGtPRGd0TWpFNU5UVmtOalV4TVRnMCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2ODI4MjgyMjgsImlhdCI6MTY4Mjc0MTgyOCwianRpIjoiNzE5YWZmMDItMDJjZC00NWEzLWE2NDgtNTgyNjc5MzVkYWQ2In0.O6Y2RD6wF0I_qDLDCN-l1_ESoSwWbaWPvlly1KVUTo8&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEt_3vy41Yk_0X3h0LzF3hXUCSKcCzMTqzrdaW1u22WZZ0e4fm7xHC_VdM-bypkTKFlw3zAuqsD9y0iIaVTIUiUwFYJ6Q0Iw1qcjMJj5q5eXs0NPxMbD2HsYMQod_ppnNf-oy-2hXDuxfYNSpgKRoNdrTKG9LwNGZlSIIFgcLFnjWc4H6s5gxsuvz1oF_ngkBH9N18rdlBhZldYOuO6KVgCJkzGVTqho33JBsyHbNCLin7rBGtE6PxPqXb2mZA7ROY_fJs4bxRjxY2nkh9NR8Jz_gpLARN-g31_VBif3hkxsX51UQJvdajXmRWH08IJMrktMUmIk2-AeDd6IhY_LbRUBFhDwyRYvDUNgbkP-jBkmNWuvxTcnCvzS2C_pRJm8mv8DJSv6gUGDLNdTpQ3ohLmgeuLgxXX9Qzb02ggVLTW39Z27Nuo7Yx3uQNTWK3be_x8VaEWYth8IJK5q9UZrELGgySzdPYgcAePn9R6VLdGm9kaGf23HG7TzY1jr3T4iQdV_bdsuQJR1c9hUJ6PQapcChpc-yiGs0pfZDjGf-uOs4Gtfh0bPQbtD3SekjMVtXQlFnnbKE3D52R4mR8AzULVn_6E-lE5BGPbolSIQpNJLcbhJ7PDo7EmzCbiAE2XFf3hx2XBqFyAAGRGEXg0tx_jYPAMUYey41hQ-VfYW9NK42VipLSfOKp-9yHHf9mUZmpWVO1lpwW9CQS8zDfcroRSlFe5HKmA4THyjNX65gg8ugFqouEa4BpwMgD2n_s55-Ax87m8MUthhZS7OwqkeYOl4jfXc75YiThTXWEsqYg33HVaOEq17_d01G43iq9TuZAvDdotj2olVHe1rCdcL2tAqbxCXCgfGVqatLhCque4UFKPCg4IWXbrbxc5RH3w5Ole6tnxEg7dz76-aekTuMMftBuUhnhZfcuznu0sna-_G5wqpqxZKF-RWQaolS3j5ADaJxmSqBfHqFueRxDnQ7ttY-8kmIft5FOIAyyz6Ig1uHkFkfh6j8IpG9iomKNAD3f4gk9h1fUwEfYaGgFdAjO2SO3gOtlu3fBoYVTaiivQTcs6_gN7Ar9cwGBwqdVuWtBPuYWBe5xn16vBbFruL2nPY3xBrZkhEbbRDyidMuW4eTxO6V7bLyYZSsh4WtMR6qrdN9j2UHoiKWZPBlhAnsBd06K9uOzSyCmylJb0xFJfxlFN1-GNpd5WK0z82RohcoleADtkhtSsjzjoWA662Lgcn5PTn8oEp2ehHPmyp0MAJnMXVi0ZJGFSECyxQJMqJT_zMJNzmdEPkOsPX4pKePDT630qXO1-bmUr1jhL-igPk5hw8hz67bbhLaLh4LgW4D9-dYQ&eventVOD=true&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22f14a8fe4-0c8c-4c82-93ac-6fc7c943a5c6%22%2Csu
-
-#EXTINF:-57 tvg-logo="https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png" group-title="INFANTIL", ICARLY
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=samsung-tvplus&amp;deviceMake=samsung&amp;deviceModel=samsung&amp;deviceVersion=unknown&amp;appVersion=unknown&amp;deviceLat=0&amp;deviceLon=0&amp;deviceDNT=%7BTARGETOPT%7D&amp;deviceId=%7BPSID%7D&amp;advertisingId=%7BPSID%7D&amp;us_privacy=1YNY&amp;samsung_app_domain=%7BAPP_DOMAIN%7D&amp;samsung_app_name=%7BAPP_NAME%7D&amp;profileLimit=&amp;profileFloor=&amp;embedPartner=samsung-tvplus
-
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/qvzyXDxJ/latinokids.png" group-title="INFANTIL", LATINO KIDS
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
-
-#EXTINF:-57 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="INFANTIL",BOB ESPONJA
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?advertisingId=&appName=web&appVersion=6.12.0-f0d96ffee2cf8f5e97a2080a7de151de1d1ed6df&app_name=web&clientDeviceType=0&clientID=4c2a1f52-4888-4f00-9d88-21955d651184&clientModelNumber=1.0.0&country=EC&deviceDNT=false&deviceId=4c2a1f52-4888-4f00-9d88-21955d651184&deviceLat=-0.2910&deviceLon=-76.4083&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=113.0.0&marketingRegion=VE&serverSideAds=true&sessionID=b4c3a56a-e644-11ed-a51c-de2ffa989e49&sid=b4c3a56a-e644-11ed-a51c-de2ffa989e49&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEyMWM3ZGFhLWNjYTktNDU0ZS04ZjBmLTIxOTQ3OTQyOTQzMyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJiNGMzYTU2YS1lNjQ0LTExZWQtYTUxYy1kZTJmZmE5ODllNDkiLCJjbGllbnRJUCI6IjQ1LjIyNC4xNTIuNzQiLCJjaXR5IjoiU2h1c2h1ZmluZGkiLCJwb3N0YWxDb2RlIjoiIiwiY291bnRyeSI6IkVDIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTAuMjkxLCJkZXZpY2VMb24iOi03Ni40MDgzLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMTMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI2LjEyLjAtZjBkOTZmZmVlMmNmOGY1ZTk3YTIwODBhN2RlMTUxZGUxZDFlZDZkZiIsImNsaWVudElEIjoiNGMyYTFmNTItNDg4OC00ZjAwLTlkODgtMjE5NTVkNjUxMTg0IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvR3VheWFxdWlsIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOk5HTXlZVEZtTlRJdE5EZzRPQzAwWmpBd0xUbGtPRGd0TWpFNU5UVmtOalV4TVRnMCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2ODI4MjgyMjgsImlhdCI6MTY4Mjc0MTgyOCwianRpIjoiNzE5YWZmMDItMDJjZC00NWEzLWE2NDgtNTgyNjc5MzVkYWQ2In0.O6Y2RD6wF0I_qDLDCN-l1_ESoSwWbaWPvlly1KVUTo8&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEJL0jJFWy_T-W6e5R3KDTIyFiACcig5w3gnyaY-vRXKPuwnNM4UIIf54tNIc5YkPWOZmyB31L4wqN5m5WRIdleQMOcrCd-918sh6ZsyX9gwsnNrYmXCZJlHUN_n13v1pXqDvkYWn7AZncE_iSi08tDDpnHWHXUJBm--szumsiJPPJhs77SlC__9NaAISZfmEMsdy97UbOHJCSflyRmGEZ7MEiG2FyX69JJgjc5eOvGwHFfI-MEg4zU7jS4NTjsrDx6uAXfzrZzdrPAxx98o7SVResEktjYboSk_L7k3DAPDuI-HNNc4EuiaJ_1j1g9QlMA7f2crJjMnBrDUzhfX6vwj-yezRBtmDDL9gASt6PNGQR-OhMcrmrhp8R0lG_rsLL_2I3osd-565hmeWDb_BJjYi9bu1OPhCBKDLJ8EjL2IXPhfQ9tfAKamtLOyT_83KwuCuhh-iNi2AxIs2uyH6n_g0p4jPIfGtUA-1DQMMA0bzmNcRsGXp9MjDP6uhJJRc45RA4Fz56prE-OlXb5stCrxgEi26ewGIoQnxfROGyWUefD_j4ERA0iyFwcJhpsD6KRmPc8OOR1SPAyMHfO6XmJHaY8WdopjTSoyfuxUvA1UILw9u-vOLBtyWiCGR-wXGg0KxQuu9jTca0FwzW-l5r8ydAPd0aQpzU2Hrl-b3vfM7uPraU-k5zB5FMsgMX6G-TRt22R-BVnSjjBfFoGGuIr5UPWPBK6Mpa8oSi81rSQorvh16FQIE2_ubYm8bY77kd2_OtroxzGDJX-DziQ48HoxwkqIbG7cI21lpTNSWcjZcKsv_AohL55uIK9rKj780ZapvCDP6vXm9pvoyUTWscNkNdTTYjWoVICEAUAHa9U3XOzQ8UbaPfy8sRo7nBwRkBzRTwC0W3rJm6ue9smfqvpHbanxWEbFvgX8csRJ8MyS0LP4_C84BUDJfKAftD2XlGP1gWxikMtH0xhxqgiBuWhhCJbMnebQbWtlcAAZqr5x5-XoXD3gIoD9Sf32g-TvDhTPUWTm6jYM58OsyeJBp9GSFS2wsdTJvyzJGPpCXdpl213S0P9FrfngYaEv94116bpc5ZZYe1GqDTyPFfXc6-GVQUPxBiiwpKj7aj1jjmOFglu-4x1yByQ1cKPaGtJ47XPyOcqCKqKiVZHV0RyGo7AfenihKs3tXonVjuPnjoJ4R7ggOGElynn1RrPVEVsmFzeGb9QYrqIZwGYuZXDwywGN4XKh0uJ-xl4lM7eNbRV9AI_kgNMNWLc4LjFjUCq4sdiwP0s_AvHAAARDT8N-hUBoy3rsgNgFgsH1_cK6QGbkm_9Y8TUXRJaprLWn67nVmIZ0MiiBwsI5u_l27V4B0Az3HgjP8wnJn4FGzL3qW-DUinmeY.&eventVOD=true&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2228c74038-83bc-472e-8aad-2c83eb41f280%22%2Csu
-
-#EXTINF:-57 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="INFANTIL", BOB ESPONJA 2 (España)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd87d882574170007fac022/master.m3u8?deviceId=channel&amp;deviceModel=web&amp;deviceVersion=1.0&amp;appVersion=1.0&amp;deviceType=rokuChannel&amp;deviceMake=rokuChannel&amp;deviceDNT=1&amp;advertisingId=channel&amp;embedPartner=rokuChannel&amp;appName=rokuchannel&amp;is_lat=1&amp;bmodel=bm1&amp;content=channel&amp;platform=web&amp;tags=ROKU_CONTENT_TAGS&amp;coppa=false&amp;content_type=livefeed&amp;rdid=channel&amp;content_rating=ROKU_ADS_CONTENT_RATING
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="NOTICIAS", Deutsche Welle Latino | SD
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -356,9 +328,6 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gDOEH0A.png" group-title="NOTICIAS", France 24 | HD
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-
-#EXTINF:-1 group-title="CINE Y SERIES", Paramount mas | HD
-https://service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/600728952b1776000776526d/997452/playlist.m3u8?terminate=false&sid=b4c3a56a-e644-11ed-a51c-de2ffa989e49&deviceDNT=0&deviceLat=-0.291&deviceLon=-76.4083&deviceModel=web&deviceVersion=113.0.0&includeExtendedEvents=true&paln=AQzzBGQEvGU0ZXM989pKx3HuRAVCHMIlNhhPBlIywq0xQozuhpyOZzqMD29VY8bWb9lFZEYb4PXO_-gWOSGxLpxXfo1RWdMcITRMIRTmfHWIo5zL8kO8H4pR8y4GIwWhjFK_XRHXQiXmJSjyHGDPgH8FYAsoebYhfWMwfwfu0BFfNziP37DKZJLy_M33LbWTTSVdyuV6gi_0Zh9Aev3V6fDLSamj4Wxn-pMkV80JJYU9ifSXAYMuC6elSDdul7U3H7-GNJvdMDWJBzS0xTSOJR5ezZ-ASFyHcUlqYoVzYYp9qSc5v26WBGrJpW3JyrETHu5sxMrWKhEoAaOcJDFwvnoKIsbbhOAT_AVKyCLsfuo7sYYs9SeVeWIjstODjfYsjwQJP8K2J_RYhWWu8kfj45RfgmaJvU8I1n5pwrrOom66L440oo65k7fkne0l6hVDTrovsKF_t5wIzF5G4vDb8HrI53Bhi3B1ZVw_85Uq3QAVsiDv6odwdR0pNxTmyPpo45pfIxGgVW0eyIkWGotfoDzilcqmAmWLuRdE5Z_dUfogNmpC00Q_X581a0dMDxVTPFdiiY2Ry4iOv7k9yAF4ZTvLS3UPqbpCNzd-SxLSekPhQ3ArWkXj7tquIB1jN7pvLBXk06fjyRZ782vyJzLvw1SNy9ULg_VJcRd1E9Y3Ngn5HXkr73n7kfRno92NG5vCFW1BiUbbhH81tO-T_b-S9mAllvK-pPwc9Y_gIMVdhbKGQa6rlzXAhHsmATdRE6C1io0w_-U4w69kfEZzOjJ7zxnnAw0YTQzrA1BrWmoJS2NE7mUni3A4WtEFf4P1M0523FiOv07deCRBFeD_9E5DtlLAxzUFiK_dsrKyjyAdPxrDFk7l4EwTVR3mb19xOvyG7lyDtIodp6m5Jkz2VpFAuHsHvgXA-5IP-E9EiwsZ7EtW5_3J40QFUq6SWIngfaWnGhjZn-VJhfirN9Ks-rwZqXvWtLVVez0tY6CFBOYqQvvZmGRiStt3y2uwMtK6pnHKxoCO73yJLWLst4TPdn1K5qSWPAFznqsGnsyaFF217EjLuQpcKl0w_Rv6BIoPpDzRarSTL1pHrDBSAKCDw60Ayku99uZlU3CA9ZkwNixqLMvLvtDeLFPqeh539iS8a8oWVLgOlNgQxmuayzURu4LOP87pwEjWt3CPiNVdVlAwEeTecUIcE6PRLBP95iXzTelHQntnTe5r1NEqKjGslQ_JP_yo7oLbec21XF2X7OgP5boCEPq2RIbJgzqi_UXvItrldPd0nPOB9idvuxYGb3-JtcQT6p1wj4Ol2zC6CrIITvv4SMm867Gzl9z81XoyD08mxerycGEnqTd6FIc.&serverSideAds=true&appName=web&DRMCapabilities=widevine&deviceId=4c2a1f52-4888-4f00-9d88-21955d651184&appVersion=6.12.0-f0d96ffee2cf8f5e97a2080a7de151de1d1ed6df&deviceType=web&deviceMake=chrome&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjEyMWM3ZGFhLWNjYTktNDU0ZS04ZjBmLTIxOTQ3OTQyOTQzMyIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJiNGMzYTU2YS1lNjQ0LTExZWQtYTUxYy1kZTJmZmE5ODllNDkiLCJjbGllbnRJUCI6IjQ1LjIyNC4xNTIuNzQiLCJjaXR5IjoiU2h1c2h1ZmluZGkiLCJwb3N0YWxDb2RlIjoiIiwiY291bnRyeSI6IkVDIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTAuMjkxLCJkZXZpY2VMb24iOi03Ni40MDgzLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMTMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI2LjEyLjAtZjBkOTZmZmVlMmNmOGY1ZTk3YTIwODBhN2RlMTUxZGUxZDFlZDZkZiIsImNsaWVudElEIjoiNGMyYTFmNTItNDg4OC00ZjAwLTlkODgtMjE5NTVkNjUxMTg0IiwiY21BdWRpZW5jZUlEIjoiIiwiaXNDbGllbnRETlQiOmZhbHNlLCJ1c2VySUQiOiIiLCJsb2dMZXZlbCI6IkRFRkFVTFQiLCJ0aW1lWm9uZSI6IkFtZXJpY2EvR3VheWFxdWlsIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOk5HTXlZVEZtTlRJdE5EZzRPQzAwWmpBd0xUbGtPRGd0TWpFNU5UVmtOalV4TVRnMCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2ODI4MjgyMjgsImlhdCI6MTY4Mjc0MTgyOCwianRpIjoiNzE5YWZmMDItMDJjZC00NWEzLWE2NDgtNTgyNjc5MzVkYWQ2In0.O6Y2RD6wF0I_qDLDCN-l1_ESoSwWbaWPvlly1KVUTo8&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%227b71af72-1122-4ed6-936d-8d2ab9abc398%22%2Csu
 
 #EXTINF:-1, RUNTIME CINE | HD
 https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
@@ -1109,3 +1078,199 @@ http://144.217.70.79/VODS-M/1080P/Tick%20Tick%20Boom%202021.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ahbwIJl7T0D34m3sPKlBaCqs2xH.jpg" group-title="PELICULAS" type="movie", Last Night in Soho (2021) movies  | SD
 http://144.217.70.79/VODS-M/1080P/Last%20Night%20in%20Soho%202021.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg" type="movie" , King Richard (2021) 
+http://144.217.70.79/VODS-M/1080P/King%20Richard%202021.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dU4HfnTEJDf9KvxGS9hgO7BVeju.jpg" type="movie" , After We Fell (2021) 
+http://144.217.70.79/VODS-M/1080P/After%20We%20Fell%202021.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wmh1likQEetSLIUs5MAvfWjEayY.jpg" type="movie" , Motherly (2021) 
+http://144.217.70.79/VODS-M/1080P/Motherly%202021.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bKIdlJbd17rrIm4oZzhXTbmqpon.jpg" type="movie" , Robin Robin (2021)
+http://144.217.70.79/VODS-M/1080P/Robin%20Robin%202021.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1sRejtiHOZGggZd9RcmdqbapLM5.jpg" type="movie" , A Boy Called Christmas (2021)
+http://144.217.70.79/VODS-M/1080P/A%20Boy%20Called%20Christmas%202021.mkv
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/axibOQF9QnThrr8M37ufAYurP4R.jpg" type="movie" , Bruised (2020) 
+http://144.217.70.79/VODS-M/1080P/Bruised%202020.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5YwaISdOwp8Zu6O7kwBeUn8a7Pu.jpg" type="movie" , 8-Bit Christmas (2021) 
+http://144.217.70.79/VODS-M/1080P/8-Bit%20Christmas%202021.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vRYbjHs129MARMq1VDbnk9Jboen.jpg" type="movie" , The Terminal (2004) 
+http://144.217.70.79/VODS-M/1080P/The%20Terminal%202004.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg" type="movie" , Malignant (2021) 
+http://144.217.70.79/VODS-M/1080P/Malignant%202021.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg" type="movie" , Venom (2018) 
+http://144.217.70.79/VODS-M/1080P/Venom%202018.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dgd82hYmpiXDM1G867HqNaWe8wj.jpg" type="movie" , Harvey (1950) 
+http://144.217.70.79/VODS-M/1080P/Harvey%201950.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/86jyzdxtAX8p956rVQDKwGbrYh2.jpg" type="movie" , Earwig and the Witch (2020) 
+http://144.217.70.79/VODS-M/1080P/Earwig%20and%20the%20Witch%202020.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uZ9NZh4zB80phMxo5PucFyWagjG.jpg" type="movie" , Are We Done Yet (2007) 
+http://144.217.70.79/VODS-M/1080P/Are%20We%20Done%20Yet%202007.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1qwj0wKFsDoC3w2i2kDhXY330TU.jpg" type="movie" , Spanglish (2004) 
+http://144.217.70.79/VODS-M/1080P/Spanglish%202004.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z7MWaPlkKGMrEjbvKOa9rXH4rPg.jpg" type="movie" , Are We There Yet (2005) 
+http://144.217.70.79/VODS-M/1080P/Are%20We%20There%20Yet%202005.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iNybVu4P7DAq5T2ti6Tdo9S7g8j.jpg" type="movie" , The Gate 2 Trespassers (1990) 
+http://144.217.70.79/VODS-M/1080P/The%20Gate%202%20Trespassers%201990.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/76rLcn53Fjdh4Dji9EIeJ98aYj1.jpg" type="movie" , Serpico (1973) 
+http://144.217.70.79/VODS-M/1080P/Serpico%201973.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cqdH1UH0RXKOjeRAwKc8MGMVOfy.jpg" type="movie" , Assault on Precinct 13 (2005) 
+http://144.217.70.79/VODS-M/1080P/Assault%20on%20Precinct%2013%202005.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg" type="movie" , The Fifth Element (1997) 
+http://144.217.70.79/VODS-M/1080P/The%20Fifth%20Element%201997.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fTGr7lGtLIpnXM2JZkx3EUyzFIN.jpg" type="movie" , The Fifth Commandment (2008) 
+http://144.217.70.79/VODS-M/1080P/The%20Fifth%20Commandment%202008.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3MgwChvi42N1RnhQE9A4pQVHyUY.jpg" type="movie" , Superman Shazam The Return of Black Adam (2010) 
+http://144.217.70.79/VODS-M/1080P/Superman%20Shazam%20The%20Return%20of%20Black%20Adam%202010.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kynvOlKALNek7s0apLw9ThQzniz.jpg" type="movie" , The Sixth Man (1997)
+http://144.217.70.79/VODS-M/1080P/The%20Sixth%20Man%201997.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oF750ITKUAOaEGmIVkraH9S1Ijm.jpg" type="movie" , The Climax (1944) 
+http://144.217.70.79/VODS-M/1080P/The%20Climax%201944.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dqoshZPLNsXlC1qtz5n34raUyrE.jpg" type="movie" , Candyman (2021) 
+http://144.217.70.79/VODS-M/1080P/Candyman%202021.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8tJ4Ya8yEyxCMihDumEyvwvUuLB.jpg" type="movie" , Driven (2019) 
+http://144.217.70.79/VODS-M/1080P/Driven%202019.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fP3VvqUjEBjawxZHL4sYCq2ZdJD.jpg" type="movie" , Home Sweet Home Alone (2021) 
+http://144.217.70.79/VODS-M/1080P/Home%20Sweet%20Home%20Alone%202021.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5svMKCGnR6Yvj8wxldvDvgUi0Jk.jpg" type="movie" , 7 Prisoners (2021) 
+http://144.217.70.79/VODS-M/1080P/7%20Prisoners%202021.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg" type="movie" , Shang-Chi and the Legend of the Ten Rings (2021) 
+http://144.217.70.79/VODS-M/1080P/Shang-Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings%202021.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lAXONuqg41NwUMuzMiFvicDET9Y.jpg" type="movie" , Red Notice (2021) 
+http://144.217.70.79/VODS-M/1080P/Red%20Notice%202021.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jXp6ERnrFdG04Gli3d34GtANsuw.jpg" type="movie" , Passing (2021) 
+http://144.217.70.79/VODS-M/1080P/Passing%202021.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6BngDhDNfbBjhVFWDT2yMve32vi.jpg" type="movie" , Never Been Kissed (1999) 
+http://144.217.70.79/VODS-M/1080P/Never%20Been%20Kissed%201999.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9JV0LOcazudqEcz2NNOMqEIzACz.jpg" type="movie" , Love Hard (2021) 
+http://144.217.70.79/VODS-M/1080P/Love%20Hard%202021.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9a2O1CVhw7L339aSF6lZJhYcP7j.jpg" type="movie" , Triggered (2020) 
+http://144.217.70.79/VODS-M/1080P/Triggered%202020.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg" type="movie" , Finch (2021)
+http://144.217.70.79/VODS-M/1080P/Finch%202021.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6vA3SbLQ6aH2m3eOKMv2Ki49ypV.jpg" type="movie" , The Claus Family (2020) 
+http://144.217.70.79/VODS-M/1080P/The%20Claus%20Family%202020.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sKJcrnjngg6rcl9khSBFGCI62VM.jpg" type="movie" , Ainbo Spirit of the Amazon (2021) 
+http://144.217.70.79/VODS-M/1080P/Ainbo%20Spirit%20of%20the%20Amazon%202021.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pj6UQPrtmC0snzPeU1HUhGWTgz6.jpg" type="movie" , The Ice Road (2021) 
+http://144.217.70.79/VODS-M/1080P/The%20Ice%20Road%202021.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/szvidvi0Fo4j2gmMtk1sNe1rkzw.jpg" type="movie" , Mrs Doubtfire (1993) 
+http://144.217.70.79/VODS-M/1080P/Mrs%20Doubtfire%201993.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg" type="movie" , No Time to Die (2021) 
+http://144.217.70.79/VODS-M/1080P/No%20Time%20to%20Die%202021.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/17siH6wJRQ2jZiqz9BWUhy1UtZ.jpg" type="movie" , Reminiscence (2021) 
+http://144.217.70.79/VODS-M/1080P/Reminiscence%202021.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/q06saepaXeBdkMibuN4R2fXmgIw.jpg" type="movie" , Halloween (1978) 
+http://144.217.70.79/VODS-M/1080P/Halloween%201978.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t2wy38iiMpB8WsgJi3lYeDnGh2H.jpg" type="movie" , Halloween 2 (1981) 
+http://144.217.70.79/VODS-M/1080P/Halloween%202%201981.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/WABfdeaThFYXCySGIOvRNv2sSW.jpg" type="movie" , Halloween 3 Season of the Witch (1983)
+http://144.217.70.79/VODS-M/1080P/Halloween%203%20Season%20of%20the%20Witch%201983.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eFSOkXF9n9hsfGv45MDsPixiOyx.jpg" type="movie" , Halloween 4 The Return of Michael Myers (1988) 
+http://144.217.70.79/VODS-M/1080P/Halloween%204%20The%20Return%20of%20Michael%20Myers%201988.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rYvP6yMXCIVHnkVtwGaAXFmpzkB.jpg" type="movie" , Halloween 5 The Revenge of Michael Myers (1989)
+http://144.217.70.79/VODS-M/1080P/Halloween%205%20The%20Revenge%20of%20Michael%20Myers%201989.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/noCnM8nEI2bEDSdKHh0RKbwBwbC.jpg" type="movie" , Halloween The Curse of Michael Myers (1995) 
+http://144.217.70.79/VODS-M/1080P/Halloween%20The%20Curse%20of%20Michael%20Myers%201995.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lqLXUm3oK59sGJKRH2Zjj2m3iMg.jpg" type="movie" , Halloween H20 (20 Years Later (1998)
+http://144.217.70.79/VODS-M/1080P/Halloween%20H20%2020%20Years%20Later%201998.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hMIQiwLpBfTfe3ZbRlNx4225Mgg.jpg" type="movie" , Amina (2021) 
+http://144.217.70.79/VODS-M/1080P/Amina%202021.mkv 
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/poVoLKLxUqsTLSntA40Po2F78dZ.jpg" type="movie" , From Paris with Love (2010) 
+http://144.217.70.79/VODS-M/1080P/From%20Paris%20with%20Love%202010.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ucktgbaMSaETUDLUBp1ubGD6aNj.jpg" type="movie" , Force of Nature (2020) 
+http://144.217.70.79/VODS-M/1080P/Force%20of%20Nature%202020.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg" type="movie" , Blade Runner (2049 (2017) 
+http://144.217.70.79/VODS-M/1080P/Blade%20Runner%202049%202017.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rodqqX8NLe3cdcgBMc4CFTPidTy.jpg" type="movie" , Blade Trinity (2004) 
+http://144.217.70.79/VODS-M/1080P/Blade%20Trinity%202004.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rE3dBsEwBAfWoZvGRrBjCbTxNXD.jpg" type="movie" , Blade 2 (2002) 
+http://144.217.70.79/VODS-M/1080P/Blade%202%202002.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/f6l9rghSHORkWLurUGJhaKAiyjY.jpg" type="movie" , The Pursuit of Happyness (2006) 
+http://144.217.70.79/VODS-M/1080P/The%20Pursuit%20of%20Happyness%202006.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ji3ecJphATlVgWNY0B0RVXZizdf.jpg" type="movie" , The Revenant (2015) 
+http://144.217.70.79/VODS-M/1080P/The%20Revenant%202015.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ic0intvXZSfBlYPIvWXpU1ivUCO.jpg" type="movie" , Paw Patrol The Movie (2021)
+http://144.217.70.79/VODS-M/1080P/Paw%20Patrol%20The%20Movie%202021.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rUgVTCBLnXngVlpOaVWZupxwmHZ.jpg" type="movie" , Dracula AD (1972) 
+http://144.217.70.79/VODS-M/1080P/Dracula%20AD%201972.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/su9WzL7lwUZPhjH6eZByAYFx2US.jpg" type="movie" , The Harder They Fall (2021) 
+http://144.217.70.79/VODS-M/1080P/The%20Harder%20They%20Fall%202021.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z8DPeAno9IT47gCQBrKqJ9czUyI.jpg" type="movie" , The Education of Fredrick Fitzell (Flashback) (2020) 
+http://144.217.70.79/VODS-M/1080P/The%20Education%20of%20Fredrick%20Fitzell%20(Flashback)%202020.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rfQtqLHeisaQ4HlYtNremtUl9oP.jpg" type="movie" , Gamer (2009) 
+http://144.217.70.79/VODS-M/1080P/Gamer%202009.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mF2ZYPwhMwRp1rJSCI7KKIkw4fc.jpg" type="movie" , The True Adventures of Wolfboy (2019) 
+http://144.217.70.79/VODS-M/1080P/The%20True%20Adventures%20of%20Wolfboy%202019.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/j04Oepj3LGTWSb1ltXm0pcy50Xq.jpg" type="movie" , Army of Thieves (2021) 
+http://144.217.70.79/VODS-M/1080P/Army%20of%20Thieves%202021.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg" type="movie" , It Follows (2014)
+http://144.217.70.79/VODS-M/1080P/It%20Follows%202014.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/52E0LGcMKHOO91P4j6hdHKVwITP.jpg" type="movie" , The Deep House (2021) 
+http://144.217.70.79/VODS-M/1080P/The%20Deep%20House%202021.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/56As6XEM1flWvprX4LgkPl8ii4K.jpg" type="movie" , The Skull (1965) 
+http://144.217.70.79/VODS-M/1080P/The%20Skull%201965.mkv
