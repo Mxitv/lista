@@ -1274,3 +1274,24 @@ http://144.217.70.79/VODS-M/1080P/The%20Deep%20House%202021.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/56As6XEM1flWvprX4LgkPl8ii4K.jpg" type="movie" , The Skull (1965) 
 http://144.217.70.79/VODS-M/1080P/The%20Skull%201965.mkv
+
+#EXTINF:-1 group-title="(VOD)Drama" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8GTJwaC2CeNa0Zg6QrPLwrfurpZ.jpg",Mientras Haya Esperanza (2023)
+https://od.lk/s/OTZfNzc3MjU5Nzhf/On%20a%20Wing%20and%20a%20Prayer%20%282023%29%20Online.mp4
+
+#EXTINF:-1 group-title="(VOD)Infantiles" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",Super Mario Bros: La película (2023)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20S%C3%BAper%20Mario%20Bros-%20La%20pel%C3%ADcula%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+
+#EXTINF:-1 group-title="(VOD)Acción" type="movie" tvg-logo="https://pics.filmaffinity.com/R_I_P_D_2_Rise_of_the_Damned-169387284-mmed.jpg",R.I.P.D. 2 (2022)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fnoviembr%2FVer%20R.I.P.D.%202-%20Rise%20of%20the%20Damned%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+
+#EXTINF:-1 group-title="(VOD)Acción" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg",Free Guy (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelissept%2F%E2%96%B7%20Ver%20Free%20Guy-%20Tomando%20el%20Control%20(2021)%20Pel%C3%ADcula%20Online%20Latino.mp4
+
+#EXTINF:-1 group-title="(VOD)Drama" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/dU4HfnTEJDf9KvxGS9hgO7BVeju.jpg",After. Almas perdidas (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisnovi%2F%E2%96%B7%20Ver%20After-%20Almas%20Perdidas%20(2021)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
+
+#EXTINF:-1 group-title="(VOD)Acción" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/z8CExJekGrEThbpMXAmCFvvgoJR.jpg",El Ejército de los muertos (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelismay%2F%E2%96%B7%20Ver%20El%20Ej%C3%A9rcito%20de%20los%20Muertos%20(2021)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
+
+#EXTINF:-1 group-title="(VOD)Acción" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",La Liga de la Justicia de Zack Snyder (2021)
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelismarz%2FZack%20Snyders%20Justice%20League%20(2021)%20LAT_2.mp4
