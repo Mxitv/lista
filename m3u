@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg"group-title="PELICULAS" type="movie", Avatar2 | HD
 https://cloclo61.cloud.mail.ru/videowl/0p/Z1lOUy9ramZvMWJHV00=.m3u8?double_encode=1
 
-#EXTINF:-125 tvg-logo="https://www.tvmundogt.com/wp-content/uploads/2020/10/5.jpeg" group-title="MEXICO", MUNDO TV | SD
+#EXTINF:-2 tvg-logo="https://www.tvmundogt.com/wp-content/uploads/2020/10/5.jpeg" group-title="MEXICO", MUNDO TV | SD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4871&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.tvazteca.live&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=tvazteca&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=tvazteca&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.
 
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR", RTS TV | SD
@@ -353,8 +353,8 @@ https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 #EXTINF:-119 tvg-logo="https://mplay.es/images/2020/canales-azcorazon.png" group-title="MEXICO", Corazon tv | HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4830&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.tvazteca.live&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=tvazteca&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=tvazteca&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.tv&amp;gender=not_specified&amp;yob=0&amp;livestream=1&amp;custom_param_1=desktop&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%20America&amp;custom_param_0=&amp;custom_param_2=&amp;custom_param_3=
 
-#EXTINF:-120 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC ec | SD
-https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl0KA_P3U4tUUMVMetuCa25bJdXHfKfmTwxkTZXT2a29A)/dm/3/x7wijay/s/live-2.m3u8#cell=lnyc
+#EXTINF:-120 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC ECU | SD
+https://youvideostreaming.club/hls/ecutv3.m3u8
 
 #EXTINF:-121, VIX NOVELAS DE ORO | HD
 https://linear-196.frequency.stream/196/hls/master/playlist.m3u8
@@ -398,6 +398,9 @@ https://panel.tvstream.cl:1936/8034/8034/chunklist_w1244170437.m3u8?WebM3UCL
 #EXTINF:-134 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR6pwd4ddbpHbDaa0U1Xhk_RiikwmFDXc5Y9nhps4Za0F-6CCVxLAKxp542lW34Kg151Y&usqp=CAU" group-title="ECUADOR", INFINITA TV | HD
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image5883637955.webp" group-title="MEXICO", MIAMI TV| HD
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/variedtv_320.jpg" group-title="INFANTIL", Varied Tv | HD
 https://6362ca6f1fc28.streamlock.net/8066/8066/chunklist_w1488662887.m3u8
 
@@ -422,10 +425,8 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-72 tvg-logo="https://i.postimg.cc/SRJQFrjC/CINE-LIFE.png" group-title="CINE Y SERIES", CINE LIFE
 https://magselect-stirr.amagi.tv/playlist720p.m3u8
 
-
-
-#EXTINF:-72 tvg-logo="https://i.postimg.cc/sf5LjSCR/mitv.png" group-title="CINE Y SERIES", MI TV CINE
-http://162.244.80.176:8081/abr/stream/live/livestream_480p/chunks.m3u8
+#EXTINF:-72 tvg-logo="https://www.coolstreaming.us/img/ch/image96674211510.jpg" group-title="DEPORTES", Mas23 TV
+https://mediacp.us:8081/mas23tv/index.m3u8
 
 #EXTINF:-91 tvg-logo="https://i.postimg.cc/FHFj3Qxh/vegavisión_canal_18.png" group-title="REPUBLICA DOMINICANA", VEGAVISIÓN CANAL 18
 https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
@@ -513,6 +514,9 @@ https://5ab772334c39c.streamlock.net/live-calitv/calitv1/.m3u8
 
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/rcn-mas_1.jpg" group-title="COLOMBIA", RCN MAS | SD
 https://rcntv-rcnmas-1-us.plex.wurl.tv/3000.m3u8
+
+#EXTINF:-130 tvg-logo="https://i.postimg.cc/gjmxSjGn/vision_dorada_tv.jpg" group-title="COLOMBIA", VISIÓN DORADA TV
+https://movil.ejeserver.com/live/visiondorada.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Rcn-xtra_2.png" group-title="COLOMBIA", RCN EXTRA | HD
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/3000.m3u8
