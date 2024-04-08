@@ -3,7 +3,7 @@
 https://alba-ec-rts-rts.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-2 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", TC4 HRS NOCH
-https://live-c.cf.dmcdn.net/sec2(b7C2l6GjtmKJpx80hFZ_WUR5gtQh4_Gsty-2p8xOvJNeBHzTimUpv9c2TMgd3AUFi8ZcXeiM2OZdwHIPpsF0HY1L2D7jAe-MVZJQ4PSlRoQ)/dm/3/x7wijay/d/live-2.m3u8
+https://live-c.cf.dmcdn.net/sec2(Y8kjB2UXSw3NTWhvUdmA9PIjk45bKOv5ulYTe1ujvmI_9sKsGHJgUXnvMSsVfsW46sO0RfTvjNm8aAUtGJtIuk_yJfsZtRMVCv3TNs4VX5o)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png" group-title="ECUADOR",TELEAMAZONAS sierra
 https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12bf264e/live.isml/43953caa-53ff-4525-9f9e-202a12bf264e.m3u8
@@ -7845,7 +7845,7 @@ http://archive.org/download/ulakinw_w542c_mygeoweb_4/DFRT/9.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n3ZxUztAAF4NEzYnIZd8XZVyTJ1.jpg" group-title="Pelis 3" type="movie" ,WINX CLUB EL SECRETO DEL REINO PERDIDO 
 http://archive.org/download/winxclubelsecretodelreinoperdidopeliculaespanollatino_201909/Winx%20Club%20%20%20El%20Secreto%20del%20Reino%20Perdido%20_%20Pel%C3%ADcula%20%20%20Espa%C3%B1ol%20Latino.mp4 
- 
+
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png" group-title="DEPORTES", ESPN | HD
 http://181.78.105.146:2000/play/a064/index.m3u8
 
