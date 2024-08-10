@@ -1091,13 +1091,13 @@ https://pacific.direcnode.com:3353/live/ecuamundotvlive.m3u8
 https://ssh101.bozztv.com/ssh101/streamlatacungatv/playlist.m3u8
 
 #EXTINF:-361 tvg-logo="https://i.imgur.com/3qGSAT3.png" group-title="ECUADOR" ,LORETO TV
-https://stmv1.voxplayer.com.br/vidieg12/vidieg12/playlist.m3u8
+https://stmv1.painelcast.com/loretolive/loretolive/chunklist_w1734358261.m3u8
 
 #EXTINF:-362 tvg-logo="https://i.imgur.com/IvZtqyz.png" group-title="ECUADOR" ,RADIO BONITA
 https://cloudvideo.servers10.com:8081/8154/index.m3u8
 
-#EXTINF:-363 tvg-logo="https://i.imgur.com/m1LK6rY.png" group-title="ECUADOR" , BACAN TEO
-https://cloudvideo.servers10.com:8081/8064/index.m3u8
+#EXTINF:-363 group-title="NOVELAS" tvg-logo="",Novelisima ²⁴⁺⁷
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
 #EXTINF:-364 tvg-logo="https://i.imgur.com/ez1NxwJ.jpg" group-title="ECUADOR" , MarcaTV
 https://eu1.servers10.com:8081/8030/index.m3u8
@@ -1184,7 +1184,7 @@ https://master.tucableip.com/gigavision/playlist.m3u8
 https://master.tucableip.com/dtvsc/playlist.m3u8
 
 #EXTINF:-392 tvg-logo="https://i.imgur.com/wwNh4wb.png" group-title="ECUADOR" , Teledigital
-https://tv.portalexpress.es:3182/hybrid/play.m3u8
+https://cdn5.streamgato.us:3371/live/canal56live.m3u8
 
 #EXTINF:-392 tvg-logo="https://i.imgur.com/FQF9NYp.png" group-title="COSTA RICA" , MeganetTV.cr
 https://video20.klm99.com:3401/live/megahitslive.m3u8
@@ -1483,9 +1483,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/612f8b455ed5810007170b
 
 #EXTINF:-90 tvg-logo="https://i.postimg.cc/CxPQXtDw/STNHP.png" group-title="NOVELAS", SIN TETAS NO HAY PARAÍSO 2²⁴⁺⁷
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=25bdaa71-ada8-11eb-a3cb-eb027f348c5f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc5aeb38-8de1-4922-821b-78e2296d5daa&userId=&serverSideAds=true
-
-#EXTINF:-1 group-title="NOVELAS" tvg-logo="",Novelisima ²⁴⁺⁷
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
 
 #EXTINF:-1 group-title="NOVELAS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnKw5XmFOryjOIHpSLCmLK3f3iSw-AimFNLQ&s",Amor Bravio ²⁴⁺⁷
 https://linear-478.frequency.stream/mt/studio/478/hls/master/playlist.m3u8
@@ -8507,6 +8504,108 @@ http://archive.org/download/ulakinw_w542c_mygeoweb_4/DFRT/9.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n3ZxUztAAF4NEzYnIZd8XZVyTJ1.jpg" group-title="Pelis 3" type="movie" ,WINX CLUB EL SECRETO DEL REINO PERDIDO 
 http://archive.org/download/winxclubelsecretodelreinoperdidopeliculaespanollatino_201909/Winx%20Club%20%20%20El%20Secreto%20del%20Reino%20Perdido%20_%20Pel%C3%ADcula%20%20%20Espa%C3%B1ol%20Latino.mp4 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://webcam.lgbt/wp-content/uploads/2023/03/image-97.png",POV PORNO
+https://cdn.adultiptv.net/pov.m3u8
+
+#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://www.logotypes101.com/logos/902/628B6656F15FF18373495599DF11E7F3/Pornstar.png",PORNSTAR
+https://cdn.adultiptv.net/pornstar.m3u8
+
+#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://lc.cx/VkiN5Q",BLOWJOB
+https://cdn.adultiptv.net/blowjob.m3u8
+
+#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://i.postimg.cc/DZJr5wgT/800px-Dorcel-TV-svg.png",DORCEL TV
+https://s.oxax.tv/0D7LwdR2PmbbXY4b4dknjg/21/1722753004/index.m3u8
+
+#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://i.postimg.cc/SRcWF131/private3963-logowik-com.webp",PRIVATE
+https://s.oxax.tv/ya0kLcKTDwvOGrC3awSlUg/11/1720508880/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", FAP TV 2
+https://s.oxax.tv/tqiMQORPw2K1w5kW8tQyBw/26/1722753119/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0P81HRD/image.jpg" group-title="ZONA 18 XX",Penthouse gold HD 
+https://s.oxax.tv/H9W3_4kzH7r70yuJ9hgdqQ/39/1722753253/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", XXPLUS 
+https://s.oxax.tv/_RHRRVJsHglwyx35pofd6g/30/1720508982/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", LiveCams 
+http://cdn.adultiptv.net/livecams.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Milf 
+http://cdn.adultiptv.net/milf.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", BigDick 
+http://cdn.adultiptv.net/bigdick.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Fetish 
+http://cdn.adultiptv.net/fetish.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", BigTits 
+http://cdn.adultiptv.net/bigtits.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Pornstar 
+http://cdn.adultiptv.net/pornstar.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", BigAss 
+http://cdn.adultiptv.net/bigass.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Interracial 
+http://cdn.adultiptv.net/interracial.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Latina 
+http://cdn.adultiptv.net/latina.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", POV 
+http://cdn.adultiptv.net/pov.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Blowjob 
+http://cdn.adultiptv.net/blowjob.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Teen 
+http://cdn.adultiptv.net/teen.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Hardcore 
+http://cdn.adultiptv.net/hardcore.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Cuckold 
+http://cdn.adultiptv.net/cuckold.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Threesome 
+http://cdn.adultiptv.net/threesome.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Russian 
+http://cdn.adultiptv.net/russian.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Lesbian 
+http://cdn.adultiptv.net/lesbian.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Rought 
+http://cdn.adultiptv.net/rough.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Gangbang 
+http://cdn.adultiptv.net/gangbang.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Anal
+http://cdn.adultiptv.net/anal.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Compilation 
+http://cdn.adultiptv.net/compilation.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Brunette 
+http://cdn.adultiptv.net/brunette.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Blonde 
+http://cdn.adultiptv.net/blonde.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Playboy HD
+http://177.53.153.20:8001/play/a0bg/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.pngaaa.com/30/3839030-middle.png" group-title="ZONA 18 XX", VENUS
+http://201.159.113.219:49000/play/a02p/index.m3u8
+
+#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/868-540x304-FFFFFF.jpg",MIAMI TV XX
+https://59ec5453559f0.streamlock.net/JennyLiveMembers/smil:WEB3131/playlist.m3u8
 
 #EXTINF:-1 tvg-id="UnivisionNetwork(Español).us" tvg-name="Univision Miami" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Univision_23_2019. png" group-title="NOVELAS", Univision Miami
 http://23.237.66.106:25461/now_160322/now2.php?id=UNIVISIONMIAMI&calidad=sd&.m3u8
