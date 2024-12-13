@@ -732,7 +732,7 @@ https://alba-ec-tvc-tvc.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="ECUADOR", TeleAmazonas 
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR",TC Televisión |ECUADOR
-https://live-b.cf.dmcdn.net/sec2(743WkO8bFt1qOIr3WncEeTPC1DeH_pBi6rIyc72EkQGGBrXuTv2qv5eo2livWZLAPVcJ61fCghmv_Xmj09WySztPx9SKyXXzK6rxwMepRu77lwgAL8kgtde4jR50TAW8)/dm/3/x7wijay/d/live-480.m3u8
+https://live-b.cf.dmcdn.net/sec2(xeKa4DNMoO2lL9Xrgocs94FDAWQhMwtPY_AJBgFhDfMukTsQNvZXw5K93BoOK4-KE7isBWq5xXRQJ8RNeVAnqTTKur6OPsvY7GDq_q89SA4XUiRnJKZK6V9BElpdj0Hz)/dm/3/x7wijay/d/live-480.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/950586804549439489/pqZDWuIb_400x400.jpg" group-title="ECUADOR", TV Color Canal 36 Cotopaxi || ECUADOR
 https://video.compuwebecuador.com:3067/live/tvcolorlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LCiYFrh.jpg" group-title="PUERTO RICO", Telenorte tv | HD
@@ -762,7 +762,7 @@ http://181.78.105.146:2000/play/a08d/index.m3u8
 #EXTINF:-12 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevijdEFdSAV5BB5hgQwvfa8AqDJPMCqL4jQ&s" group-title="ECUADOR", Telesistema  | SD
 https://k20.usastreams.com:8081/telesistema/index.m3u8
 #EXTINF:-13 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTevijdEFdSAV5BB5hgQwvfa8AqDJPMCqL4jQ&s" group-title="ECUADOR", Telesistema  | SD
-http://45.228.234.167:8000/play/a03r/index.m3u8
+https://glb.bozztv.com/glb/ssh101/telesistemacrtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/41c870183ed012aa991e0986fc3b561a.webp" group-title="VENEZUELA" ,TELESUR EC
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/41c870183ed012aa991e0986fc3b561a.webp" group-title="ECUADOR" ,TELESUR EC
@@ -5504,5 +5504,11 @@ http://ia802200.us.archive.org/26/items/Peliculas-wii/Recuerdos%20del%20Ayer.mp4
 http://ia802200.us.archive.org/26/items/Peliculas-wii/Se%20levanta%20el%20viento.mp4
 #EXTINF:-1 group-title="PELIS ANIMADAS" type="movie" tvg-logo="https://telechancho.github.io/telechancho-iptv/covers/movies/Susurros_del_coraz_n-911063934-large.jpg",Susurros del Corazon
 http://ia802200.us.archive.org/26/items/Peliculas-wii/Susurros%20del%20Corazon.mp4
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJv2-w3aDF5qFos80Tlk7PXan8gXkRtI8VDw&s",Django
+https://zte054upd8.guardstorage.net/hls_3/PODm7cHDt-66hCI8h4m35qj2WWmgiJctY3QlmnE4AV-rLj7584COR9QraWmDCyY4J2FG45W5tD_KzgmsJMqoL6tpaCYLAFqsGyFHSW_gqMExmjmLHEyxgbSt8NnfrZTNdQMd2TD6vipHkiFkYSXD_14WBnMm-A6lylZJkM3fmMLAXUSnlgLCNgYngxClAcm0QyWb4C6yDw-KnIhCUe7u_Q/master.m3u8?sig=ZaOMjUjEPqMtFVfX-VYaUA&expires=1734126471
+
+
+
+
 
 
